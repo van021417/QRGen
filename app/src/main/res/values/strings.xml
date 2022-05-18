@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">LakbayApp</string>
+
+    <string-array name="destination">
+        <item> Dasma </item>
+        <item> Imus </item>
+        <item> Bacoor </item>
+        <item> Indang </item>
+
+    </string-array>
+</resources>
